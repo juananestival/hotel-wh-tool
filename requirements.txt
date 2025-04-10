@@ -1,0 +1,7 @@
+functions-framework==3.*
+flask
+flask_cors
+debugpy # Required for debugging.
+ptvsd
+gunicorn
+thefuzz[speedup]
